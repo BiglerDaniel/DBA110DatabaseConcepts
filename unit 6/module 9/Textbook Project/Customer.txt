@@ -1,0 +1,10 @@
+1,Anne Carlson,	12 W 400 S St,	Blanding,	UT,	84511,	0,	17500,	1
+2,Barb Lenton,	415 Continental St,	Blanding,	UT,	84511,	29200,	0,	2
+3,Benny Lozo,	1230 W 300 S St,	Blanding,	UT,	84511,	16500,	38225,	2
+4,Eileen Anderson,	867 Ridge,	Blanding,	UT,	84511,	12750,	15000,	3
+5,Fabio Lopez,	344 West Center St,	Blanding,	UT,	84511,	21000,	12500,	1
+6,Frank Brown,	1230 West Center St,	Blanding,	UT,	84511,	0,	0,	2
+7,Monesha Patel,	76 Dixon,	Blanding,	UT,	84511,	0,	43025,	2
+8,Patrick Right,	15 N 100 W St,	Blanding,	UT,	84511,	31750,	0,	1
+9,Tim McLaughlin,	45100 Bronco Dr,	Blanding,	UT,	84511,	18750,	31500,	3
+10,Warren Lu,	7 Cherry Ln,	Blanding,	UT,	84511,	14000,	0,	2

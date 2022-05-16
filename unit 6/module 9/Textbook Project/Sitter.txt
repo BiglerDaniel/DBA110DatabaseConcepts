@@ -1,0 +1,4 @@
+1,21,	Kripsen,	Arnold,	26 W 500 S St,	Blanding,	UT,	84511,	0.1,	17600
+2,24,	Rogers,	Carl,	3135 Centennial St,	Blanding,	UT,	84511,	0.1,	19900
+3,27,	Fernandez,	Jaime,	265 Bronco Dr,	Blanding,	UT,	84511,	0.09,	9450
+4,34,	Lorenz,	Jose,	1827 Cherry Ln,	Blanding,	UT,	84511,	0.08,	0
